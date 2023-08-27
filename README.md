@@ -9,17 +9,15 @@
 
 The Tic-Tac-Toe Game is a web application that lets you play the classic game of tic-tac-toe against another player. The app is responsive, built with HTML, CSS (or SCSS), and JavaScript.
 
-## Features
 
-- Play the classic game of tic-tac-toe against another player.
-- The app is responsive and works on all devices.
 
 ## Technologies Used
 
 - HTML
 - CSS (or SCSS)
 - JavaScript
-- Firebase [hosting] (or any other hosting service of your choice)
+- Firebase [hosting]
+- Webpack
 
 ## How to Play
 
@@ -33,10 +31,9 @@ The Tic-Tac-Toe Game is a web application that lets you play the classic game of
 To play the game locally, follow these steps:
 
 1. Clone the repository to your local machine.
-2. Open the index.html file in your web browser.
+2. Open the index.html file located in public dir in your web browser
 
 ## Credits
 
-Frontend Mentor - [Tic-Tac-Toe Game Challenge](https://www.frontendmentor.io/challenges/tic-tac-toe-game-rLIG0iOQY)
 
 Feel free to adapt this template to create your own tic-tac-toe game. You can replace the design preview image with your actual game interface and customize the implementation details as needed. Good luck with your tic-tac-toe game project!
