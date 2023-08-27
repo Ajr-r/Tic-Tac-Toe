@@ -1,0 +1,24 @@
+{
+  "name": "tic_tac_toe",
+  "version": "1.0.0",
+  "description": "tic tac toe game",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "bundle": "webpack --config webpack.config.js",
+    "cleanprod":"rm -r dist_prod",
+    "cleanpub":"rm -r public"
+
+  },
+  "author": "arjith",
+  "license": "MIT",
+  "dependencies": {
+    "css-loader": "^6.7.3",
+    "css-minimizer-webpack-plugin": "^5.0.0",
+    "html-loader": "^4.2.0",
+    "html-webpack-plugin": "^5.5.1",
+    "mini-css-extract-plugin": "^2.7.5",
+    "webpack": "^5.81.0",
+    "webpack-cli": "^5.0.2"
+  }
+}
